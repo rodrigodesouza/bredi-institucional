@@ -1,0 +1,14 @@
+{
+    "name": "BrediInstitucional",
+    "alias": "brediinstitucional",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Bredi\\BrediInstitucional\\Providers\\BrediInstitucionalServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
